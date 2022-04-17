@@ -1,6 +1,5 @@
 ## Olá! Eu me chamo Saul Rocha 😄
 
-- 🔭 Atualemente sou bolsista do Programa Institucional de Bolsas de Ensino e Extensão - PIBEX.
 - 🌱 Estou aprendendo Data Science e Machine Learning.
 
 <div align="center">
