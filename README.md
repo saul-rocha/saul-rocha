@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Saul Rocha 😄
 
-- 🌱 Estou aprendendo Data Science e Machine Learning.
+- 🌱 Estou aprendendo Data Science e Machine Learning e Django.
 
 <div align="center">
   <a href="https://github.com/saul-rocha">
